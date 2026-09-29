@@ -57,7 +57,7 @@ ul li a:hover {
 }
 
 .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('gambar/toko1.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('Gambar/toko1.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
@@ -129,7 +129,7 @@ ul li a:hover {
 }
 
 .hero-produk {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('gambar/toko2.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('Gambar/toko2.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
